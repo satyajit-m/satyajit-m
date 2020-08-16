@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Ruby on Rails | React**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter, Firebase, Android, Rails**
 
 - 📫 How to reach me **smohapatra200@gmail.com**
 

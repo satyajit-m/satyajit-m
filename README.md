@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyajit Mohapatra</h1>
-<h3 align="center">A passionate Flutter & MERN stack developer from India</h3>
+<h3 align="center">Once a passionate Flutter & MERN stack developer, now pursuing PhD, from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyajit-m" alt="satyajit-m" /> </p>
 
